@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Firomsa Guteta</h1>
 <h3 align="center">A full-stack developer building modern web applications with the PERN stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firogute&label=Profile%20views&color=0e75b6&style=flat" alt="firogute" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firogute" alt="firogute" /></a> </p>
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
